@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/ttyy114/ttyy114.github.io/
 
 ![2](https://github.com/ttyy114/ttyy114.github.io/blob/main/B1.jpg)
 
+![2](https://github.com/ttyy114/ttyy114.github.io/blob/main/B1.jpg)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
